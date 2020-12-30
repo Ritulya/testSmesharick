@@ -19,7 +19,7 @@ body {
 
 .header .header__logo {
     color: #FFFFFF;
-    font-size: 150%;
+    font-size: 149%;
     position: fixed;
     font-weight: 400;
     left: 12%;
@@ -92,7 +92,7 @@ ul :hover{
 }
 
 .result {
-    line-height: 1;
+    line-height: 0.95;
     font-size: 85%;
     width: 900px ;
     height: 300px;
